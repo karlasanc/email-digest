@@ -22,9 +22,7 @@ Use either
 - [ ] add/remove recipients form email list -> to control who receives daily digest email
 
 ### Use Case
-Title: [What is the goal]
-Actor: [Who desires it]
-Scenario: [How is it accomplished]
+<!-- Include a link for the title on each issue listed here -->
 
 ## Development Tools Used
 - programming language
