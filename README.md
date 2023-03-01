@@ -1,4 +1,4 @@
-# Daily Email Digest Program
+# Daily Email Digest
 - Requested By: Barron Stone
 - Created For: Python Course
 
