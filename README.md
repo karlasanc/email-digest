@@ -10,16 +10,16 @@ Use either
 
 ### User Stories
 **Email Digest Recipient**
-- []receive an email every morning with current and useful information -> to know what's going on in the world and learn something new each day
-- [] read an inspirational quote ->  to have something to ponder throughout my day
-- [] know the weather forecast -> to know how to dress for the day
-- [] Know current twitter trends -> to stay up to date with current trends
-- [] Learn something new or random -> to get a smarter every day
+- [ ]receive an email every morning with current and useful information -> to know what's going on in the world and learn something new each day
+- [ ] read an inspirational quote ->  to have something to ponder throughout my day
+- [ ] know the weather forecast -> to know how to dress for the day
+- [ ] Know current twitter trends -> to stay up to date with current trends
+- [ ] Learn something new or random -> to get a smarter every day
 
 **Admin**
-- [] curates included content -> to create best experience for recipients
-- [] control when email is sent -> to ensure it contains relevant information to prepare recipients for their day ahead
-- [] add/remove recipients form email list -> to control who receives daily digest email
+- [ ] curates included content -> to create best experience for recipients
+- [ ] control when email is sent -> to ensure it contains relevant information to prepare recipients for their day ahead
+- [ ] add/remove recipients form email list -> to control who receives daily digest email
 
 ### Use Case
 Title: [What is the goal]
